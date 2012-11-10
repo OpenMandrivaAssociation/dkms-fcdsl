@@ -1,0 +1,7 @@
+sources:
+  "dkms-fcdsl-remove-DECLARE_MUTEX_LOCKED.patch:"	22ed8b1630eb9098b3db59b52c0ef4dbefbcda8d
+  "dkms-fcdsl-update-device_interrupt-definition.patch:"	fb0094b3d0981efa692faa861ade91bcf58894f5
+  "dkms-fcdsl-update-irq-flags.patch:"	172b8d726387080657f7d36922fe126d61363608
+  "dkms-fcdsl-use-autoconf-header.patch:"	74f1e5945ca92728c5c7ddf17d85aec890eb4bc7
+  "dkms-fcdsl-use-pci_register_driver.patch:"	34962ad2899c53b426f293e62b6092cb81e6d4eb
+  "fcdsl-suse93-3.11-07.tar.bz2:"	8634aa7ad43c4ccf8092da09ed068e3d8428d565
